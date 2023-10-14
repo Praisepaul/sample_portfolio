@@ -1,5 +1,5 @@
 import React from 'react';
-import backgroundImage from '../images/bg_Image.jpg';
+import backgroundImage from 'src/images/bg_Image.jpg';
 
 const Header = () => {
   const headerStyle = {
